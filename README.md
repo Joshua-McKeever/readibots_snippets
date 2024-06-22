@@ -14,6 +14,10 @@ I've also included a tag back to CIS as a number of these snippets can help impr
     <td>Account_Inventory</td>
     <td>5.1</td>
   </tr>
+  <tr>
+    <td>NonUnique_Passwords</td>
+    <td>5.2</td>
+  </tr>
 </table>
 <ul>
   <li>5.1 Establish and Maintain an Inventory of Accounts</li>
