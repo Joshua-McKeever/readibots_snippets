@@ -12,7 +12,7 @@ I've also included a tag back to CIS as a number of these snippets can help impr
   </tr>
   <tr>
     <td>Account_Inventory</td>
-    <td>5.1</td>
+    <td>5.1, 5.6</td>
   </tr>
   <tr>
     <td>NonUnique_Passwords</td>
