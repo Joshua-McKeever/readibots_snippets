@@ -4,7 +4,7 @@ I've also included a tag back to CIS as a number of these snippets can help impr
 <table>
   <tr>
     <th>Readibots Snippet</th>
-    <th>Center for Information Security (CIS) Control</th>
+    <th>Center for Information Security (CIS) Control tag</th>
   </tr>
   <tr>
     <td>Disable_To_Delete</td>
