@@ -10,6 +10,10 @@ I've also included a tag back to CIS as a number of these snippets can help impr
     <td>Disable_To_Delete</td>
     <td>5.3</td>
   </tr>
+  <tr>
+    <td>Account_Inventory</td>
+    <td>5.1</td>
+  </tr>
 </table>
 <ul>
   <li>5.1 Establish and Maintain an Inventory of Accounts</li>
