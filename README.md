@@ -1,5 +1,6 @@
 # readibots_snippets
-A collection of snippets for use with the Readibots platform. Readibots is an automation platform using PowerShell, https://readibots.com.
+A collection of snippets for use with the Readibots platform. Readibots is an automation platform using PowerShell, https://readibots.com. </br>
+I've also included a tag back to CIS as a number of these snippets can help improve your security posture.
 <table>
   <tr>
     <th>Readibots Snippet</th>
