@@ -1,7 +1,3 @@
-# enabled users who are a member of the specified privileged AD groups
-# can be adjusted to fit the individuals business need
-# script dependent on an attribute denoting an individuals relationship e.g. employee
-
 $PrivilegeGroups = "Enterprise Admins", "Domain Admins", "Administrators", "Schema Admins"
 
 ForEach($PrivilegeGroup in $PrivilegeGroups){
