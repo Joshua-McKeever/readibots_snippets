@@ -10,3 +10,6 @@ Multiple scripts to monitor for stale Active Directory user objects</br>
 1.) Identify AD user obejects that have not logged in or had a password reset for a set duration</br>
 2.) Disable stale AD user objects and move them to a holding OU</br>
 3.) Identify stale AD user objects in the holding OU and then delete them if not modified for a set duration of time</br>
+</br>
+</br>
+Similar processes could be implemented for computer obects, Exchange accounts, etc.
