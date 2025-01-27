@@ -26,6 +26,10 @@ I've also included a tag back to CIS as a number of these snippets can help impr
     <td>Centralized_ServiceAccounts</td>
     <td>5.5, 5.6, 6.1</td>
   </tr>
+  <tr>
+    <td>ShareFolder</td>
+    <td>5.6, 6.1, 6.8</td>
+  </tr>
 </table>
 <h4>CIS Controls - https://www.cisecurity.org</h4>
 <ul>
