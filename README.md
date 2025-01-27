@@ -22,6 +22,10 @@ I've also included a tag back to CIS as a number of these snippets can help impr
     <td>Dedicated_Admin_Acct</td>
     <td>5.4</td>
   </tr>
+  <tr>
+    <td>Centralized_ServiceAccounts</td>
+    <td>5.5, 5.6, 6.1</td>
+  </tr>
 </table>
 <h4>CIS Controls - https://www.cisecurity.org</h4>
 <ul>
